@@ -1,0 +1,28 @@
+/* DIV TITULO 1 */
+.div_titulo1 {
+    color: red;
+    font-weight: normal;
+    font-size: 1.5em;
+    font-family: Courier New;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+input[type=text], input[type=number] {
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    width: 20%;
+}
+
+input[type=submit] {
+    background-color: #000000; /* Cambia el color de fondo */
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    width: 21%;
+}
+
+
+
+

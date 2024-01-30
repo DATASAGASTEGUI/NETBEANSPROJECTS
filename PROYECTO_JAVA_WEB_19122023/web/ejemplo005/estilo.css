@@ -1,0 +1,40 @@
+/* DIV TITULO 1 */
+.div_titulo1 {
+    color: red;
+    font-weight: normal;
+    font-size: 1.5em;
+    font-family: Courier New;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+table {
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+table th {
+    border-radius: 10px;
+    border: 1px solid yellow;
+    font-family: Courier New;
+}
+
+input[type=text] {
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #39c;
+    width: 15%;
+}
+
+input[type=submit] {
+    background-color: #000000; /* Cambia el color de fondo */
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #39c;
+    width: 16%;
+}
+
+
+
+
